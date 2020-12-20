@@ -1,0 +1,43 @@
+.s1 {
+    background: url('../backgrounds/homepage.jpeg');
+    background-size: cover;
+
+}
+
+.s2 {
+
+    background: url('../newPhotos/caduceus.JPG');
+    background-size: cover;
+
+
+}
+
+.s3 {
+    background: url('../newPhotos/passion.JPG');
+    background-size: cover;
+}
+
+.s4 {
+    background: url('../newPhotos/redqueen.JPG ');
+    background-size: cover;
+
+}
+
+.s5 {
+    background: url('../newPhotos/fidelity.JPG');
+    background-size: cover;
+}
+
+.product {
+
+    font-family: Apple Chancery;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+
+}
+
+#divergent {
+    color: red;
+}
